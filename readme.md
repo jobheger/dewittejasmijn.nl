@@ -1,12 +1,14 @@
 # Atelier 'De witte jasmijn'
 
-Laatste update: 17/04/2018
+Laatste update: 24/04/2018
 
 © 2018 Job Heger. Alle rechten voorbehouden.
 
 
 
 **Changelog**
+
+**1.0.4** Layout-update en toevoeging van glans.
 
 **1.0.3** Combinaties met nieuwe kleuren.
 
